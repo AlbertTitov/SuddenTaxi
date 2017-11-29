@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\SuddenTaxi\SuddenTaxiProject\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\AndroidStudioProjects\SuddenTaxi\SuddenTaxiProject\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2f8ff23ccfa96d8bcd584f85cd728783b8b63dff\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Альберт\.android\build-cache\71cb1fdbe0eeedf20f13a79a69de20a09a71d6a0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="C:\AndroidStudioProjects\SuddenTaxi\SuddenTaxiProject\build\intermediates\pre-dexed\debug\classes_86cb66c5628ceeea1cf23bdbb827997303129a23.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Альберт\.android\build-cache\bb6f090751751f15da14756f31fcb53c8336280d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="C:\AndroidStudioProjects\SuddenTaxi\SuddenTaxiProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0ba17824291da3a49d3cf20ad2733c3970761b09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Альберт\.android\build-cache\f2044e2116706a2e990c4e8fc05de3588a8697cc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\AndroidStudioProjects\SuddenTaxi\SuddenTaxiProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e2747bfedd65dbfb54ca455e5bf0da02694dea63\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Альберт\.android\build-cache\c0e84b9f97d685ae00dfa7ded2cbf85099bf8e4d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="C:\AndroidStudioProjects\SuddenTaxi\SuddenTaxiProject\build\intermediates\pre-dexed\debug\classes_3b9bc091f732f9731aa8ae4361389541e9441308.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Альберт\.android\build-cache\f39d8a483fe67d466f048c634044e197466c78b7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="C:\AndroidStudioProjects\SuddenTaxi\SuddenTaxiProject\build\intermediates\pre-dexed\debug\classes_b87fb989e72520983c571abab0e2fab1f79cfbd3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Альберт\.android\build-cache\f39d8a483fe67d466f048c634044e197466c78b7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="C:\AndroidStudioProjects\SuddenTaxi\SuddenTaxiProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b87fb989e72520983c571abab0e2fab1f79cfbd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Альберт\.android\build-cache\bb6f090751751f15da14756f31fcb53c8336280d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="C:\AndroidStudioProjects\SuddenTaxi\SuddenTaxiProject\build\intermediates\pre-dexed\debug\classes_0ba17824291da3a49d3cf20ad2733c3970761b09.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Альберт\.android\build-cache\c0e84b9f97d685ae00dfa7ded2cbf85099bf8e4d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="C:\AndroidStudioProjects\SuddenTaxi\SuddenTaxiProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3b9bc091f732f9731aa8ae4361389541e9441308\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\SuddenTaxi\SuddenTaxiProject\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="9e7143d09f3e4be534cac8802ef5dc1a9364f048">
+        <dex dex="C:\AndroidStudioProjects\SuddenTaxi\SuddenTaxiProject\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_340fbe32a9b3aa0761385d5615581f206a529625\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Альберт\.android\build-cache\71cb1fdbe0eeedf20f13a79a69de20a09a71d6a0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="C:\AndroidStudioProjects\SuddenTaxi\SuddenTaxiProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_86cb66c5628ceeea1cf23bdbb827997303129a23\classes.dex" />
+    </item>
+
+</items>
